@@ -5,3 +5,7 @@ your operating system can't communicate with it.
 The operating system also provides a UI so that you can see important things happening on your computer. One great example is your
 desktop or your start menu. All of your applications are in these places and you can simply click on them to open them instead
 of running code to get them to work. The file explorer is another thing provided by an operating system's UI.
+
+Another thing the operating system does is handle all of your computer's programs. Usually when you download a program you have
+to make sure it is compatible with your OS. That is because programs run differently depending on your OS. Application software
+is linked to the hardware of the computer with a kernel, which is controlled by the operating system. 
