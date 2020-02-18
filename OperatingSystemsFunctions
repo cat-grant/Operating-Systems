@@ -1,3 +1,7 @@
 One operating system function is how it controls hardware. Operating systems need drivers to function properly.
 There are drivers for things like the CPU, RAM, GPU, and even the hard drive. Hardware needs a program to manage it or else
 your operating system can't communicate with it.
+
+The operating system also provides a UI so that you can see important things happening on your computer. One great example is your
+desktop or your start menu. All of your applications are in these places and you can simply click on them to open them instead
+of running code to get them to work. The file explorer is another thing provided by an operating system's UI.
